@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Zahid Hasan</h1>
 <h3 align="center">A Frontend focused JavaScript Developer from Dhaka.</h3>
+<p align="center"> As a dedicated problem solver, I have expertise in JavaScript and its supporting technologies such as ReactJS, Redux, NodeJS, and ExpressJS that solve real-world problems through code. From my workplace, I'm gaining hands-on experience in industry-standard development, which I will use to develop world-class products like Google. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrzahidxy&label=Profile%20views&color=0e75b6&style=flat" alt="mrzahidxy" /> </p>
 
