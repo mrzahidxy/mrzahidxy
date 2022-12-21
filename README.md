@@ -15,13 +15,13 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Redux Toolkit & Express**
+- 🌱 I’m currently learning **NEXTJS & TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [here!!](https://mrzahidxy.vercel.app/)
 
 - 📝 I regularly write articles on [my linkedin profile!!](https://www.linkedin.com/in/mrzahidxy/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **JAVASCRIPT & REACTJS**
 
 - 📫 Reach me at **mrzhaidxy@gmail.com**
 
