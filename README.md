@@ -83,17 +83,15 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>  
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrzahidxy&show_icons=true&locale=en&layout=compact" alt="mrzahidxy" /></p>
+## Stats
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrzahidxy&show_icons=true&locale=en&layout=compact" alt="mrzahidxy" /></p>
 <br/> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrzahidxy&show_icons=true&locale=en" alt="mrzahidxy" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrzahidxy&show_icons=true&locale=en" alt="mrzahidxy" /></p>
 <br/>  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrzahidxy&" alt="mrzahidxy" /></p>
