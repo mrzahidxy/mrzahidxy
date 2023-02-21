@@ -89,12 +89,10 @@
 ## Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrzahidxy&show_icons=true&locale=en&layout=compact" alt="mrzahidxy" /></p>
-<br/> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrzahidxy&" alt="mrzahidxy" /></p>
-<br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrzahidxy&show_icons=true&locale=en" alt="mrzahidxy" /></p>
-<br/>  
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrzahidxy&show_icons=true&locale=en" alt="mrzahidxy" /></p> 
 
 
