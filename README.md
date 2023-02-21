@@ -13,6 +13,12 @@
   
 
 - ❓ Ask me about anything related to JavaScript and related technologies  
+
+
+- 👨‍💻 All of my projects are available at [here!!](https://mrzahidxy.vercel.app/)
+
+
+- 📝 I regularly write articles on [my linkedin profile!!](https://www.linkedin.com/in/mrzahidxy/)
   
 
 - ⚡ Fun fact: I I think I'm Ambivert  
