@@ -87,11 +87,14 @@
 
 <br/>  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrzahidxy" alt="mrzahidxy" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrzahidxy&show_icons=true&locale=en&layout=compact" alt="mrzahidxy" /></p>
 
+<br/> 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrzahidxy&show_icons=true&locale=en" alt="mrzahidxy" /></p>
+
+<br/>  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrzahidxy&" alt="mrzahidxy" /></p>
 
