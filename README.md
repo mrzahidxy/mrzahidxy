@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Zahid Hasan</h1>
 
-### <div align="center">A dedicated software engineer with expertise in JavaScript and its supporting technologies such as TypeScript, ReactJS, NextJs, Redux Toolkit, NodeJS, ExpressJS, etc that solves real-world problems through code. 🌟 I am gaining industry-standard software development experience from my workplace, which I want to use to build world-class products. 🚀</div> 
+### <div align="center">A dedicated Software Engineer (Frontend) with expertise in JavaScript and its supporting technologies such as TypeScript, ReactJS, NextJS, and Redux Toolkit, and also familiar with NodeJS, ExpressJS, etc that solves real-world problems through code. 🌟 I am gaining industry-standard software development experience from my workplace, which I want to use to build world-class products. 🚀</div> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrzahidxy&label=Profile%20views&color=0e75b6&style=flat" alt="mrzahidxy" /> </p>
