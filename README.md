@@ -6,10 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrzahidxy&label=Profile%20views&color=0e75b6&style=flat" alt="mrzahidxy" /> </p>
   
 
-- 🔭 I’m currently working on Traveling Blog Site  
+- 🔭 I’m currently working on some Sass projects.
   
 
-- 🌱 I’m currently learning Backend Development  
+- 🌱 I’m currently learning NextJS & TypeScript
   
 
 - ❓ Ask me about anything related to JavaScript and related technologies  
