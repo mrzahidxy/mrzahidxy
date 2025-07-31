@@ -37,7 +37,8 @@ I'm a passionate developer with 3+ years of experience crafting responsive, high
 ### 📫 Connect with Me
 
 - 🌐 **Portfolio:** [mrzahidxy.vercel.app](https://mrzahidxy.vercel.app/)  
-- 💼 **LinkedIn:** [linkedin.com/in/mrzahidxy](https://linkedin.com/in/mrzahidxy)  
+- 💼 **LinkedIn:** [linkedin.com/in/mrzahidxy](https://linkedin.com/in/mrzahidxy)
+- 📧 **Email:** [mrzahidxy@gmail.com](mailto:mrzahidxy@gmail.com)
 
 ---
 
