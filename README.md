@@ -1,58 +1,48 @@
-<h1 align="center">Hi 👋, I'm Md. Zahid Hasan</h1>
+# 👋 Hi, I'm Md. Zahid Hasan
 
-### <div align="center">A passionate Software Engineer with 3 years of experience building scalable, high-performance web applications. I specialize in <b>React.js</b>, <b>Next.js</b>, <b>Node.js</b>, <b>TypeScript</b>, and have hands-on experience with  <b>Express.js</b>, <b>Prisma</b>, <b>PostgreSQL</b>. I’m dedicated to solving real-world problems and delivering impactful digital experiences.</div>
+### 🚀 Software Engineer | Frontend-Focused Full Stack Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrzahidxy&label=Profile%20views&color=0e75b6&style=flat" alt="mrzahidxy" /> </p>
+I'm a passionate developer with 3+ years of experience crafting responsive, high-performance web applications. I specialize in **React.js**, **Next.js**, **Svelte**, **SvelteKit** and **modern frontend stacks**, and I enjoy turning ideas into user-focused products.
 
-- 🔭 <b>Currently working</b> on a <b>Booking System</b>.
-- 🌱 <b>Learning</b> more about <b>System Design</b>, <b>DBMS</b>.
-- ❓ Ask me anything about <b>JavaScript</b>, <b>React</b>, <b>Next.js</b>, <b>Node.js</b>!
-- 👨‍💻 Check out all my projects at <a href="https://mrzahidxy.vercel.app/">my portfolio</a>.
-- 📝 I regularly share <b>technical articles</b> on my <a href="https://www.linkedin.com/in/mrzahidxy/">LinkedIn</a>.
-- ⚡ <b>Fun fact</b>: I think I'm an <b>Ambivert</b>.
+- 🧠 Strong in **JavaScript**, **TypeScript**, and UI performance tuning
+- 💻 Backend experience with **Node.js**, **Express.js**, **PostgreSQL**, and **Prisma**
+- ⚙️ Built real-time chat apps, booking platforms, dashboards, and e-commerce systems
+- 📚 Currently exploring **Python**, **System Design** and writing tech content on **LinkedIn**
 
 ---
 
-## My Skill Set
+### 🛠 Tech Stack
 
-### Frontend
-<div align="center">
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="margin: 10px" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" style="margin: 10px" /></a>
-  <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" style="margin: 10px" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="margin: 10px" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" style="margin: 10px" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" style="margin: 10px" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" style="margin: 10px" /></a>
-  <a href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" style="margin: 10px" /></a>
-</div>
+**🧩 Frontend**  
+`React.js`, `Next.js`, `Svelte`, `SvelteKit`, `TypeScript`, `Tailwind CSS`, `Shadcn UI`, `Redux Toolkit`, `Zustand`, `React Query`
 
-### Backend
-<div align="center">
-  <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" style="margin: 10px" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" style="margin: 10px" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" style="margin: 10px" /></a>
-<!--   <a href="https://www.prisma.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Prisma_logo.svg" alt="Prisma" height="50" style="margin: 10px" /></a> -->
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" style="margin: 10px" /></a>
-</div>
+**🔧 Backend**  
+`Node.js`, `Express.js`, `Sql`, `PostgreSQL`, `MongoDB`, `Prisma`, `REST API`
+
+**🛠 Tools**  
+`Git`, `GitHub Actions`, `Vercel`, `Postman`, `Figma`, `CI/CD`
 
 ---
 
-## Connect with Me
+### 📌 Featured Projects
 
-<div align="center">
-  <a href="https://linkedin.com/in/mrzahidxy" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" /></a>
-  <a href="https://dev.to/mrzahidxy" target="_blank"><img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="devto" style="margin-bottom: 5px;" /></a>
-</div>
+- 🔗 **[Booking System](https://bookinn-client.vercel.app/)** – JWT auth for security, Stripe for payments, media upload handling with Cloudinary, and push notifications.
+
+- 🛒 **[E-Commerce Platform](https://procharok-ecommerce.vercel.app/)** – Full-stack app featuring user/admin authentication, secure payments, and product management dashboard.
+
+- 🍽️ **[Food Ordering App](http://resturant-order-app.vercel.app/)** – Built with Next.js and Prisma, includes secure REST APIs and full order lifecycle support from customer to admin.
 
 ---
 
-## GitHub Stats
+### 📫 Connect with Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrzahidxy&show_icons=true&locale=en" alt="mrzahidxy" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrzahidxy&show_icons=true&locale=en&layout=compact" alt="mrzahidxy" />
-</div>
+- 🌐 **Portfolio:** [mrzahidxy.vercel.app](https://mrzahidxy.vercel.app/)  
+- 💼 **LinkedIn:** [linkedin.com/in/mrzahidxy](https://linkedin.com/in/mrzahidxy)  
 
+---
+
+### ⚡ Fun Fact
+
+I’m an **ambivert** who loves solving problems and building things that make life easier.
 
 ---
