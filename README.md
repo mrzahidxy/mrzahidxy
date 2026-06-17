@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Md. Zahid Hasan 👋
 
-<!--
-**mrzahidxy/mrzahidxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer from Dhaka, Bangladesh.
 
-Here are some ideas to get you started:
+I build practical web applications with **React, Next.js, TypeScript, Node.js, Express.js, FastAPI, PostgreSQL, MongoDB, Prisma, Mongoose, and REST APIs**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working on clean interfaces, API integrations, dashboards, authentication, and database-driven features.
+
+---
+
+## Tech Stack
+
+**Frontend**  
+React · Next.js · TypeScript · Svelte/SvelteKit · Tailwind CSS
+
+**Backend**  
+Node.js · Express.js · FastAPI · REST APIs
+
+**Database**  
+PostgreSQL · MongoDB · Prisma · Mongoose
+
+**Tools & Platforms**  
+Git · Docker · VPS · CI/CD · Vercel · Stripe · Cloudinary
+
+---
+
+## Current Focus 🚀
+
+- Building full-stack TypeScript projects
+- Improving backend architecture and system design
+- Learning practical DevOps and deployment workflows
+
+---
+
+## Connect
+
+**Portfolio:** [zahidxy.vercel.app](https://zahidxy.vercel.app/)  
+**LinkedIn:** [linkedin.com/in/mrzahidxy](https://www.linkedin.com/in/mrzahidxy)
