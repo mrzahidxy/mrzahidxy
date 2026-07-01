@@ -2,9 +2,7 @@
 
 Full-Stack Software Engineer from Dhaka, Bangladesh.
 
-I build practical web applications with **React, Next.js, TypeScript, Node.js, Express.js, FastAPI, PostgreSQL, MongoDB, Prisma, Mongoose, and REST APIs**.
-
-I enjoy working on clean interfaces, API integrations, dashboards, authentication, and database-driven features.
+I like working on clean interfaces, API integrations, dashboards, authentication, database driven features etc. building useful online apps.
 
 ---
 
