@@ -29,8 +29,3 @@ Git · Docker · VPS · CI/CD · Vercel · Stripe · Cloudinary
 - Learning practical DevOps and deployment workflows
 
 ---
-
-## Connect
-
-**Portfolio:** [zahidxy.vercel.app](https://zahidxy.vercel.app/)  
-**LinkedIn:** [linkedin.com/in/mrzahidxy](https://www.linkedin.com/in/mrzahidxy)
